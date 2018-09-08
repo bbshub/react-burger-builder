@@ -1,0 +1,12 @@
+button {
+    display: inline-block;
+    color: white;
+}
+
+.cancel {
+    background: red;
+}
+
+.continue {
+    background: greenyellow;
+}
